@@ -1,0 +1,4 @@
+[submodule "salt/formulas/apache-formula"]
+	path = salt/formulas/apache-formula
+	url = https://github.com/saltstack-formulas/apache-formula.git
+	branch = master
