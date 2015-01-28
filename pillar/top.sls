@@ -1,0 +1,4 @@
+base:
+  '*':
+    - apachemodules
+    - phpconfig
