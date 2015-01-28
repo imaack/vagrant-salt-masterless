@@ -2,3 +2,6 @@
 	path = salt/formulas/apache-formula
 	url = https://github.com/saltstack-formulas/apache-formula.git
 	branch = master
+[submodule "salt/formulas/php-formula"]
+	path = salt/formulas/php-formula
+	url = https://github.com/saltstack-formulas/php-formula.git
